@@ -1,0 +1,6 @@
+inventoryName,dateofPurchase,price,serialNumber,remark,timeStamp,roomName,ownerName,categoryName,brandName,warranty,imageFileName,invoiceFileName,id
+Game,7/5/2025,35,Serial no. 4N1Z9,Remark 15,7/5/2025,Basement 2,Eva,Video Game,<other>,12,,,4872A9C8-3646-4875-AC5E-B90830A071EE
+Kitchen Helper,7/5/2025,699,Serial no. 4N1Z9,Remark 15,7/5/2025,Nursery 1,Jennifer,Toy,KitchenAid,12,,,6E60F80D-184D-417C-88D9-3D7F7E3D6876
+Speaker,7/5/2025,199,Serial no. 4N1Z9,Remark 15,7/5/2025,Basement 2,Josef,Toy,Sonos,24,,,F0833788-264F-4A07-97CD-E04D6BC40116
+Toaster,7/5/2025,200,Serial no. 4N1Z9,Remark 15,7/5/2025,Nursery 1,Jennifer,Toy,KitchenAid,12,,,B224BCB0-8B29-4253-8C63-815D0BF784FF
+Wizzard,7/5/2025,1190,Serial no. 4N1Z9,Remark 15,7/5/2025,Nursery 1,Jennifer,Toy,Thermomix,24,,,477030C0-84E0-4CDE-AA7C-737061E84126
